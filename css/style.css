@@ -591,7 +591,7 @@ section {
     background-clip: text;
 }
 
-.skill-card h4 {
+.skill-card h4,a {
     margin-bottom: var(--spacing-sm);
     color: var(--text-primary);
 }
